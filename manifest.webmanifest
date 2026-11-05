@@ -1,0 +1,15 @@
+{
+  "name": "Lapse",
+  "short_name": "Lapse",
+  "description": "Les dates qui coûtent de l'argent quand on les oublie.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F1F2F6",
+  "theme_color": "#F1F2F6",
+  "lang": "fr",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
